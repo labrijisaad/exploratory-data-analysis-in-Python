@@ -1,7 +1,7 @@
 # 🧹 `Cleaning Data in Python` :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74627083/156902600-0d88a238-276b-4c10-a35e-c713c8b879fd.jpg" />
+  <img src="https://user-images.githubusercontent.com/74627083/157456999-57f09e2a-96dd-485f-b0c2-8075348f5a79.png" />
 </p>
 
 - 🎯 We will see in this **`hands-on training notebook`** how to effectively diagnose and treat missing data in **Python**.
