@@ -1,4 +1,4 @@
-# 🧹 `Cleaning Data in Python` :
+# 🧹 `Exploratory Data Analysis in Python` :
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74627083/157456999-57f09e2a-96dd-485f-b0c2-8075348f5a79.png" />
